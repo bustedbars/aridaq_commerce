@@ -1,0 +1,11 @@
+product_id,product_name,category,cost_price,selling_price,current_stock,units_sold,days_observed,lead_time_days,min_stock,max_stock
+P001,Wireless Headphones,Electronics,2500,4500,24,38,30,7,10,100
+P002,Phone Case,Accessories,400,1000,80,95,30,5,20,300
+P003,Power Bank,Electronics,1800,3200,35,52,30,10,100
+P004,Bluetooth Speaker,Electronics,2200,4000,18,27,30,10,80
+P005,USB-C Cable,Accessories,250,700,120,140,30,4,30,500
+P006,Smart Watch,Wearables,3500,6500,12,19,30,10,60
+P007,Laptop Stand,Accessories,1500,2800,22,31,30,8,10,80
+P008,Wireless Mouse,Accessories,900,1800,40,46,30,6,15,150
+P009,Keyboard,Accessories,1800,3200,16,21,30,7,10,80
+P010,Webcam,Electronics,2800,5000,14,18,30,9,8,60
